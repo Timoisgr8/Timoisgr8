@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm [Timothy] 👋
 
-<!--
-**Timoisgr8/Timoisgr8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a junior full-stack developer based in Adelaide, South Australia, looking for opportunities to grow and contribute to a team building real software.
 
-Here are some ideas to get you started:
+## What I'm Working With
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages** — C#, JavaScript, TypeScript
+- **Frontend** — Blazor Server, React, Tailwind CSS
+- **Backend** — ASP.NET Core, Node.js
+- **Database** — PostgreSQL, Entity Framework Core
+- **Tools** — Git, Docker, Visual Studio, VS Code
+
+## What I've Been Building
+
+### [TrailerTrack](https://github.com/yourusername/TrailerTrack)
+A fleet management system for trailer hire operations. Built with .NET 10, Blazor Server, Clean Architecture, CQRS, and PostgreSQL. Features asset tracking, hire lifecycle management, maintenance logging, and role-based access control.
+
+## What I'm Focused On
+
+I'm currently deepening my knowledge of the .NET ecosystem and software architecture patterns — Clean Architecture, CQRS, and domain-driven design. I enjoy building practical tools that solve real problems.
+
+## Get In Touch
+
+- 📧 [tewtimothy@gmail.com](mailto:tewtimothy@gmail.com)
+- 💼 [LinkedIn](https://linkedin.com/in/timothy-tew)

@@ -1,4 +1,4 @@
-# Hi, I'm [Timothy] 👋
+# Hi, I'm Timothy 👋
 
 I'm a junior full-stack developer based in Adelaide, South Australia, looking for opportunities to grow and contribute to a team building real software.
 

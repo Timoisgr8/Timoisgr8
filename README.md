@@ -12,7 +12,7 @@ I'm a junior full-stack developer based in Adelaide, South Australia, looking fo
 
 ## What I've Been Building
 
-### [TrailerTrack](https://github.com/yourusername/TrailerTrack)
+### [TrailerTrack](https://github.com/Timoisgr8/TrailerTrack)
 A fleet management system for trailer hire operations. Built with .NET 10, Blazor Server, Clean Architecture, CQRS, and PostgreSQL. Features asset tracking, hire lifecycle management, maintenance logging, and role-based access control.
 
 ## What I'm Focused On
